@@ -1,6 +1,7 @@
 # My-Friends
 This is Social Website Project With laravel 5.3
- * You can submit and Find Friends and Chat With them
+ * You Can Submit and Find Friends and Chat With them
+ * You Can See This Project Live on : [http://alifatahi.com/friends/public]    
 
 1. create Database: friend
 2. then run: php artisna migrate
