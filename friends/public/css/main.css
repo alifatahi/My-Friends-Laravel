@@ -1,0 +1,53 @@
+body{
+  background-image: url('main.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+      height: 100%;
+}
+
+.welcome h1{
+   font-size:45px;
+   color: #ffc800;
+   text-shadow: 2px 2px 2px black;
+   margin-left: 300px;
+   background-color: rgba(0, 0, 0, 0.53);
+   width: 500px;
+   padding: 10px;
+   border-radius: 10px;
+}
+.welcome h4{
+  color: #bfbfbf;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+  background-color: rgba(0, 0, 0, 0.53);
+  width: 1100px;
+  padding: 10px;
+  height: 55px;
+  border-radius: 10px;
+}
+
+.navbar-header a{
+  font-size: 40px;
+}
+.col-lg-5{
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+.footer{
+ padding-left: 550px;
+ font-size: 23px;
+ position: sticky;
+ color: #ffc800;
+ text-shadow: 2px 2px 2px black;
+ bottom:0px;
+ width: 100%;
+ margin: 0;
+ background-color: rgba(0, 0, 0, 0.53);
+ height: 70px;/* or however high you would like */
+}
+.footer-center{
+  margin-left: 110px;
+}
